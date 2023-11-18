@@ -1,0 +1,27 @@
+heading 
+image + text __ we can use fig property
+equal spacing of image containers
+edges of container rounded 
+gallary centered
+responsive
+favicon
+title
+overflow x: hidden
+size of container or gallary is fixed 1200px maxsize
+
+
+
+ 
+
+before hover:
+    image are gray or filtered 
+
+when hover :
+    color of image cames up 
+    image scales up
+    gradient from bottom
+    shadows come 
+    smooth transition when hover
+    text of image come up opacity property
+
+
